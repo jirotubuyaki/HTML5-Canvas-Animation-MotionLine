@@ -6,4 +6,4 @@ This program is created by CrateJS (JavaScript) + HTML5. You can use it for your
 Please check CrateJS version : 2013/12/12  
 https://code.createjs.com/createjs-2013.12.12.min.js EaselJS 0.7.1, TweenJS 0.5.1, SoundJS 0.5.2, PreloadJS 0.4.1
 ### ScrennShot 
-![ScreenShot](https://github.com/jirotubuyaki/Color-Line/blob/master/ScreenShot.png)  
+![ScreenShot](https://github.com/jirotubuyaki/Color-Line/blob/master/screenshot1.png)  
